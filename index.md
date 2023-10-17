@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+# This is the begining of my website. Keegan Greenman
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
